@@ -1,6 +1,6 @@
  FROM python:3.10
 
-WORKDIR /webx
+WORKDIR /htmlboss123
 
 COPY requirements.txt ./
 
